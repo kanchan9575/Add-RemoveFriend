@@ -23,3 +23,45 @@ Design clean, intuitive buttons for adding and removing friends.
 
 UI Design:
 Create intuitive buttons for adding and removing friends.
+
+
+Technologies Used
+
+
+HTML: Structure the application layout.
+
+CSS: Style the application and make it visually appealing.
+
+JavaScript: Implement the functionality to manage tasks.
+
+Getting Started
+
+
+Prerequisites:
+ Ensure you have a modern web browser to view and use the application.
+
+Installation
+
+Clone the repository:
+
+bash
+git clone https://github.com/kanchan9575/Add-RemoveFriend.git
+Navigate to the project directory:
+
+bash
+
+cd Add-RemoveFriend
+
+
+Usage:
+
+Open the friend.html file in your web browser to start using the To-Do List application.
+
+Contributing:
+ Contributions are welcome! Please feel free to submit a pull request or open an issue.
+
+License:
+ This project is licensed under the MIT License.
+
+Contact
+For any questions or feedback, please contact kanchansingh9575@gmail.com.
